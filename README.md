@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth U Shetty</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif	" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
