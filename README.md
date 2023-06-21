@@ -1,4 +1,3 @@
-                           ![image](https://github.com/hemanth-shetty-cbt/hemanth-shetty-cbt/assets/126490029/83ec93d8-66b2-44d5-8754-86fe684acb98)
 
 
 <h1 align="center">Hi 👋, I'm Hemanth U Shetty</h1>
